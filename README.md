@@ -1,7 +1,7 @@
 # PrepWise
 
 <div align="center">
-  <img src="https://github.com/Sachinbhanu7/PrepWise/preview_prepwise2.png" alt="PrepWise Banner" width="600" />
+  <img src="preview_prepwise2.png" alt="PrepWise Banner" width="600" />
 </div>
 
 A job interview preparation platform powered by AI voice agents. Build mock interviews, get instant feedback, and track your progress—all in one place.
